@@ -1,0 +1,7 @@
+Audi A8;2.2;2012
+Toyota Corolla;1.8;2020
+BMW X3;2.0;2015
+Mazda CX5;2.8;2018
+Toyota Corolla; 1.6;2016
+Nissan Rogue;3.0;2019
+Jeep Cherokee;3.0;2017
